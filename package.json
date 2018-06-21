@@ -1,7 +1,7 @@
 {
   "name": "webpack-react-redux",
-  "description": "Boilerplate for starter react module built by webpack",
-  "version": "1.0.0",
+  "description": "Boilerplate for starter react redux module built by webpack",
+  "version": "2.0.0",
   "author": "mrowles",
   "license": "ISC",
   "main": "src/index.jsx",
@@ -18,13 +18,13 @@
   },
   "devDependencies": {
     "@babel/core": "7.0.0-beta.40",
-    "@babel/plugin-proposal-object-rest-spread": "^7.0.0-beta.40",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0-beta.51",
     "@babel/preset-env": "7.0.0-beta.40",
     "@babel/preset-react": "7.0.0-beta.40",
     "babel-loader": "8.0.0-beta.0",
-    "html-webpack-plugin": "git+https://github.com/webpack-contrib/html-webpack-plugin.git",
+    "html-webpack-plugin": "^4.0.0-alpha",
     "redux-logger": "3.0.6",
-    "webpack": "4.0.1",
-    "webpack-cli": "2.0.9"
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.8"
   }
 }
