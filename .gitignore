@@ -6,3 +6,4 @@ node_modules/
 
 # Compiled
 dist/
+package-lock.json
